@@ -1,16 +1,20 @@
 # Laravel Alias Storage
 
+Original package: https://github.com/besanek/laravel-alias-storage
+
+**Will be deleted if original package accept PR with Laravel 11 compatibility.**
+
 Meta filesystem, witch you can acreate aliases for other filesystems.
 
 ## Requirement
 
 -   PHP >= 8.1
--   Laravel = 10.x
+-   Laravel = 11.x
 
 ## Installing
 
 ```shell
-$ composer require "besanek/laravel-alias-storage"
+$ composer require "webard/laravel-alias-storage"
 ```
 
 ## Basic Usage
